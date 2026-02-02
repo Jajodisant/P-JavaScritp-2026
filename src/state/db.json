@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "luisa",
+      "email": "luisa@gmail.com",
+      "password": "564",
+      "role": "Employees",
+      "phone": "+57 300 000 0000"
+    },
+    {
+      "id": "2",
+      "name": "jainer",
+      "email": "jainer@gmail.com",
+      "password": "123",
+      "role": "Employees",
+      "phone": "+57 300 000 0000"
+    },
+    {
+      "id": "3",
+      "name": "vero",
+      "email": "vero@gmail.com",
+      "password": "123",
+      "role": "Employees",
+      "phone": "+57 300 000 0000"
+    },
+    {
+      "id": "4",
+      "name": "Luis",
+      "email": "luis@gmail.com",
+      "password": "123",
+      "role": "Manager",
+      "phone": "+57 300 000 0000"
+    },
+    {
+      "id": "d827",
+      "name": "jainerr",
+      "email": "leonardo@gmail.com",
+      "password": "1234",
+      "role": "Employees"
+    },
+    {
+      "id": "e0e7",
+      "name": "lll",
+      "email": "ll@admin.com",
+      "password": "123",
+      "role": "Manager"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Tarea1",
+      "userId": "2",
+      "category": "Arxhivosssss",
+      "priority": "media",
+      "status": "Completed",
+      "date": "2026-02-02",
+      "description": "aja y tu que",
+      "id": "4317"
+    },
+    {
+      "id": "Tarea2",
+      "title": "rgre",
+      "userId": "088d",
+      "category": "gege",
+      "priority": "regre",
+      "status": "gerg",
+      "date": "2026-02-04",
+      "description": "rgregr"
+    },
+    {
+      "id": "84c7",
+      "title": "carolina",
+      "userId": "2",
+      "category": "empleoyee",
+      "priority": "media",
+      "status": "Completed",
+      "date": "2026-02-02",
+      "description": "ponte pilas con eso"
+    }
+  ]
+}
